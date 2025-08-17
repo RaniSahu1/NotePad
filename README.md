@@ -15,9 +15,7 @@ This project provides basic text editing functionalities along with theme custom
 ---
 
 ## 📸 Screenshot
-![Notepad Screenshot](./screenshot.png)  
-*(Replace `screenshot.png` with the actual image of your app stored in your project folder.)*
-
+![Notepad Screenshot](src/notepad/screenshot.png)
 ---
 
 ## 🚀 Installation
