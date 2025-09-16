@@ -18,7 +18,3 @@ This project provides basic text editing functionalities along with theme custom
 ![Notepad Screenshot](src/notepad/screenshot.png)
 ---
 
-## 🚀 Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/notepad-project.git
